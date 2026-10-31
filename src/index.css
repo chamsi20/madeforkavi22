@@ -221,7 +221,7 @@ body {
   position: fixed;
   /* Centred within the left 46% of the screen */
   left: 21%;
-  top: 50%;
+  top: 40%;
   transform: translate(-50%, -50%);
   z-index: 5;
   perspective: 2400px;
